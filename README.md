@@ -1,6 +1,6 @@
 # KiddieGPT
 
-**KiddieGPT** is a delightful AI-powered storytelling web application designed especially for kids. Using advanced AI models like Replicate API and Gemini AI, KiddieGPT generates engaging, customized stories that spark imagination and learning. The app features an intuitive UI built with Next.js and integrates PayPal for seamless story credit purchases.
+**KiddieGPT** is a delightful AI-powered storytelling web application designed especially for kids. Using advanced AI models like Replicate API and Gemini AI, KiddieGPT generates engaging, customized stories that spark imagination and learning. The app features an intuitive UI built with Next.js and integrates PayPal for seamless story credit purchase.
 
 ---
 
@@ -93,5 +93,3 @@ PAYPAL_CLIENT_SECRET=your_paypal_client_secret
 npm run dev
 ```
 Visit ```http://localhost:3000``` to view the app locally.
-
-
